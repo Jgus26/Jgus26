@@ -1,11 +1,14 @@
-### Hi there 👋
+### Olá pessoas 👋
 Meu nome é Juan
 
 Estou estudando na Alura :)
 
 Estou me desenvolvendo na linguagem JavaScript 😎
 
-Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+O meu espaço para minha organização e compartilhamento dos meu projetos desenvolvidos 🏓
+
+Você pode entrar em contato comigo 📫
+**00001132032799sp@al.educacao.sp.gov.br**
 
 <!--
 **Jgus26/Jgus26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
