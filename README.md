@@ -10,7 +10,7 @@ O meu espaço para minha organização e compartilhamento dos meu projetos desen
 Você pode entrar em contato comigo 📫
 **00001132032799sp@al.educacao.sp.gov.br**
 
-![](https://j.gifs.com/yAYrgP.gif)
+![https://tenor.com/pt-BR/view/fortnite-meme-ok-tryhard-gif-24282400](link)
 
 <!--
 **Jgus26/Jgus26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
